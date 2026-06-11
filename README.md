@@ -183,3 +183,9 @@ GitHub Tags（日本語＋英語）
 #核融合依存リスク #FusionRisk
 #人工叡智 #ArtificialWisdom
 #和の思想 #PhilosophyOfWa
+
+---
+
+## Related Mobility and Climate-Adaptive Vehicle Concept
+
+* [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — A climate-adaptive mobility concept integrating AER-Loop airflow energy recovery, center-mist evaporative cooling, and retrofit vehicle modules.
