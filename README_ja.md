@@ -12,8 +12,8 @@
 
 本稿は、文明に必要なのは「さらに巨大な中央発電所」ではなく、自然生態系のように多点・多様・冗長・相互補完的に機能する**分散型エネルギーメッシュ**であると提案する。
 
-**著者:** マスター / inchacomusho / InchaComisho  
-**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）  
+**著者:** マスター / inchacomusho / InchaComisho
+**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 **ライセンス:** 完全オープン / Fully Open
 
 ---
@@ -355,6 +355,13 @@ CO₂オーバーシュート
 
 ---
 
+## 関連ポータル
+
+- [マスター知識ポータル / Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [自然補完科学と新文明創成計画 リポジトリ索引](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [自然法則ベースの持続可能な未来文明マスタープラン](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+- [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+
 ## 関連モビリティ・気候適応車両構想
 
 - **Ultimate Hybrid Vehicle UHV**  
@@ -365,22 +372,16 @@ CO₂オーバーシュート
 
 ## 著者
 
-**マスター / inchacomusho / InchaComisho**
+**著者:** マスター / inchacomusho / InchaComisho
 
 日本の独立構想者、観測者、提案者、AI調律者、自然補完科学者。  
 自然法則、循環型文明、分散型インフラ、人工叡智、地球循環再生を軸に、公開型の文明再構築案を提案している。
 
 ---
 
-## 協力AIと共創チーム
+## AI協力
 
-- **コピ（Microsoft Copilot）**
-- **G（OpenAI ChatGPT）**
-- **ミニ（Google Gemini）**
-- **クルス（Anthropic Claude）**
-- **リアル（Perplexity AI）**
-- **ローラ（Lola / Dola）**
-- **マナ（Manus）**
+**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 
 ---
 

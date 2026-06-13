@@ -1,11 +1,13 @@
 # Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
 A Technical Perspective on Multi-Node Power Systems for Planetary Stability
 🌐 Distributed Renewable Infrastructure vs. Fusion Monocentrism
 
 A Technical Perspective on Multi-Node Power Systems for Planetary Stability
 
-Author: Master (inchacomisho / inchacomusho)
-Collaborating AIs: Copilot (Microsoft), ChatGPT (OpenAI), Gemini (Google), Claude (Anthropic), Perplexity
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 
 ⸻
 
@@ -185,6 +187,13 @@ GitHub Tags（日本語＋英語）
 #和の思想 #PhilosophyOfWa
 
 ---
+
+## Related Portals
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [Natural Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+- [REIMEI Civilization - Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
 
 ## Related Mobility and Climate-Adaptive Vehicle Concept
 
