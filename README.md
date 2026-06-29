@@ -198,3 +198,12 @@ GitHub Tags（日本語＋英語）
 ## Related Mobility and Climate-Adaptive Vehicle Concept
 
 * [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — A climate-adaptive mobility concept integrating AER-Loop airflow energy recovery, center-mist evaporative cooling, and retrofit vehicle modules.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
